@@ -33,7 +33,7 @@ versions:
 
 <!-- if currentVersion == "free-pro-team@latest" -->
 {% link_in_list /setting-up-and-managing-your-enterprise %}
-<!-- endif -->
+<
 
 <!-- if currentVersion == "free-pro-team@latest" -->
 {% link_in_list /setting-up-and-managing-billing-and-payments-on-github %}
